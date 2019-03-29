@@ -36,5 +36,4 @@ Enjoy.
 
 --
 Paul Tooke
-paultooke@hotmail.com
 4th November 2003 
