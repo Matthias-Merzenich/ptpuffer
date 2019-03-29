@@ -9,7 +9,7 @@ However, every so often the reaction settles down, resulting in a puffer
 or a higher period spaceship.  This archive contains those results and
 some derivatives.
 
-The files are in RLE format and should readable by most Life viewing
+The files are in RLE format and should be readable by most Life viewing
 programs.  Each file is named according to the type and period of the
 object(s) it contains (e.g. s028 contains period 28 spaceships, p016 
 contains period 16 puffers).
